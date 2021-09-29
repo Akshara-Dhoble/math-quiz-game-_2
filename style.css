@@ -1,0 +1,39 @@
+body
+{
+	background:lemonchiffon;
+}
+
+	.login_div1 , .login_div2
+	{
+		background:maroon;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+
+}
+#game{
+    color:maroon;
+}
+#player1_login{
+    color:lemonchiffon;
+}
+#player2_login{
+    color:lemonchiffon;
+}
+#player1_username{
+    color: lemonchiffon;
+}
+#player2_username{
+    color: lemonchiffon;
+}
+#login{
+    background-color:lemonchiffon;
+    color: maroon;
+}
